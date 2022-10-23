@@ -1,0 +1,4 @@
+JD # Factorio streamer.
+BRB # slang.
+PEBKAC # slang.
+Babelfish # other mods name.
