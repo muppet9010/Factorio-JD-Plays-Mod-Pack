@@ -14,6 +14,7 @@ data.raw["string-setting"]["biter_hunt_group-biter_quantity_formula"].default_va
 -- Biter Revive
 if mods["biter_revive"] ~= nil then
     data.raw["string-setting"]["biter_revive-delay_text"].default_value = "zzz, snore, having a rest, BRB, please wait rebooting, I'll be back, PEBKAC, please hold repathing, it's just a flesh wound, biding time, recalculating, mistakes were made, it's fine"
+    data.raw["bool-setting"]["biter_revive-include_biological_turrets"].default_value = true
 end
 
 -- Stasis Mine
@@ -29,6 +30,15 @@ data.raw["double-setting"]["inbuilt_lighting-light_brightness"].default_value = 
 data.raw["int-setting"]["SpawnTweaks-ammo_starting_amount"].default_value = 50
 data.raw["int-setting"]["SpawnTweaks-capsule_starting_amount"].default_value = 10
 
+-- Muppet Streamer
+data.raw["bool-setting"]["muppet_streamer-enable_building_ghosts"].default_value = true
+
+-- Biter Reincarnation
+if mods["biter_reincarnation"] ~= nil then
+    data.raw["int-setting"]["biter_reincarnation-worm_turn_to_rock_chance_percent"].default_value = 20
+    data.raw["int-setting"]["biter_reincarnation-worm_turn_to_cliff_chance_percent"].default_value = 10
+    data.raw["int-setting"]["biter_reincarnation-worm_turn_to_water_chance_percent"].default_value = 70
+end
 
 
 --data.raw["ZZZZZZ-setting"]["YYYYYY-XXXXXX"].default_value = AAAAAA

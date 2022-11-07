@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2022-11-07
+  Features:
+  Changes:
+    - Minor changes to some default settings. Not related to a specific map.
+  Bugfixes:
+  Info:
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2022-10-29
   Features:

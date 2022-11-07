@@ -1,6 +1,6 @@
 {
     "name": "JD_Plays_Mod_Pack",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "JD-Plays Mod Pack",
     "author": "Muppet9010",
     "contact": "",
@@ -10,6 +10,7 @@
         "base >= 1.1",
         "? AdditionalPasteSettings",
         "biter_hunt_group",
+        "? biter_reincarnation",
         "? biter_revive",
         "Death_Counter",
         "inbuilt_lighting",
