@@ -1,6 +1,6 @@
 {
     "name": "JD_Plays_Mod_Pack",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "JD-Plays Mod Pack",
     "author": "Muppet9010",
     "contact": "",
@@ -20,7 +20,8 @@
         "muppet_streamer",
         "SpawnTweaks",
         "Babelfish",
-        "stasis_mine"
+        "stasis_mine",
+        "? fire-place"
     ],
     "description": "A mod pack for setting up new JD-Plays community maps."
 }
