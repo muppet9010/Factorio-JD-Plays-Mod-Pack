@@ -23,7 +23,7 @@ data.raw["bool-setting"]["stasis_mine-disable_stasis_mine"].default_value = true
 data.raw["bool-setting"]["stasis_mine-disable_stasis_rocket"].default_value = true
 
 -- Inbuilt Lighting
-data.raw["int-setting"]["power-pole-wire-reach-lighted-percent"].default_value = 200
+data.raw["int-setting"]["power-pole-connection-reach-lighted-percent"].default_value = 200
 data.raw["double-setting"]["inbuilt_lighting-light_brightness"].default_value = 1
 
 -- Spawn Tweaks

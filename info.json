@@ -13,7 +13,7 @@
         "? biter_reincarnation",
         "? biter_revive",
         "Death_Counter",
-        "inbuilt_lighting",
+        "inbuilt_lighting >= 20.1.14",
         "JDGoesBoom",
         "m_WhereIsMyBody",
         "muppet_gui",
