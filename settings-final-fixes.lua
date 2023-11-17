@@ -25,6 +25,7 @@ data.raw["bool-setting"]["stasis_mine-disable_stasis_rocket"].default_value = tr
 -- Inbuilt Lighting
 data.raw["int-setting"]["power-pole-connection-reach-lighted-percent"].default_value = 200
 data.raw["double-setting"]["inbuilt_lighting-light_brightness"].default_value = 1
+data.raw["int-setting"]["light-power-usage-watts"].default_value = 50
 
 -- Spawn Tweaks
 data.raw["int-setting"]["SpawnTweaks-ammo_starting_amount"].default_value = 50

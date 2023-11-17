@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2023-11-17
+  Features:
+  Changes:
+    - Set inbuilt lighting power usage.
+  Bugfixes:
+  Info:
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2023-10-28
+  Features:
+  Changes:
+  Bugfixes:
+    - Set min version of Inbuilt Lighting to an actually released version number.
+  Info:
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2023-10-28
+  Features:
+  Changes:
+  Bugfixes:
+    - Update setting compatibility for latest Inbuilt Lighting version.
+  Info:
+---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 2023-10-25
   Features:
