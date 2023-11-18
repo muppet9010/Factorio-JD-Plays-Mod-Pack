@@ -23,7 +23,7 @@ data.raw["bool-setting"]["stasis_mine-disable_stasis_mine"].default_value = true
 data.raw["bool-setting"]["stasis_mine-disable_stasis_rocket"].default_value = true
 
 -- Inbuilt Lighting
-data.raw["int-setting"]["power-pole-connection-reach-lighted-percent"].default_value = 200
+data.raw["int-setting"]["power-pole-powered-area-lighted-percent"].default_value = 200
 data.raw["double-setting"]["inbuilt_lighting-light_brightness"].default_value = 1
 data.raw["int-setting"]["light-power-usage-watts"].default_value = 50
 
@@ -33,6 +33,7 @@ data.raw["int-setting"]["SpawnTweaks-capsule_starting_amount"].default_value = 1
 
 -- Muppet Streamer
 data.raw["bool-setting"]["muppet_streamer-enable_building_ghosts"].default_value = true
+data.raw["bool-setting"]["muppet_streamer-units_can_open_gates"].default_value = true
 
 -- Biter Reincarnation
 if mods["biter_reincarnation"] ~= nil then

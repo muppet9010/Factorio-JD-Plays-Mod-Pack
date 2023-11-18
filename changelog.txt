@@ -4,7 +4,9 @@ Date: 2023-11-17
   Features:
   Changes:
     - Set inbuilt lighting power usage.
+    - Set all units to be able to open friendly gates (muppet streamer mod).
   Bugfixes:
+    - Set correct inbuilt lighting area setting (set wrong one before).
   Info:
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
