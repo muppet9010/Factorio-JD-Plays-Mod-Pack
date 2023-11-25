@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2023-11-25
+  Features:
+    - Zombie Engineer added. Defaults changed to: no gravestones, JD subscriber list from 2023-11-18.
+  Changes:
+    - Where Is My Body removed.
+  Bugfixes:
+  Info:
+---------------------------------------------------------------------------------------------------
 Version: 1.0.5
 Date: 2023-11-17
   Features:

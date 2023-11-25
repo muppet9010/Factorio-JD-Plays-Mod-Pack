@@ -1,6 +1,6 @@
 {
     "name": "JD_Plays_Mod_Pack",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "title": "JD-Plays Mod Pack",
     "author": "Muppet9010",
     "contact": "",
@@ -15,13 +15,13 @@
         "Death_Counter",
         "inbuilt_lighting >= 20.1.13",
         "JDGoesBoom",
-        "m_WhereIsMyBody",
         "muppet_gui",
         "muppet_streamer",
         "SpawnTweaks",
         "Babelfish",
         "stasis_mine",
-        "? fire-place"
+        "? fire-place",
+        "zombie_engineer"
     ],
     "description": "A mod pack for setting up new JD-Plays community maps."
 }
